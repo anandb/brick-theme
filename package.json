@@ -1,0 +1,26 @@
+{
+  "name": "brick",
+  "displayName": "Brick",
+  "description": "Brick Color Theme",
+  "version": "0.0.2",
+  "publisher":"anand-workshop",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Brick",
+        "uiTheme": "vs",
+        "path": "./themes/Brick-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anandb/brick-theme.git"
+  }
+}

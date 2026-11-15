@@ -10,4 +10,4 @@ Unlike high-contrast white themes that can cause glare, Brick's lower contrast a
 
 ## Support the Author
 
-Support the Author of this project by signing up for [OpenCode Go](https://opencode.ai/go?ref=DWTNHGN9KX) 🚀
+Support the Author of this project [Buy Me a Coffee](https://www.buymeacoffee.com/anandb)
